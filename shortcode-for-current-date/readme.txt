@@ -2,9 +2,9 @@
 Contributors: imtiazrayhan, un_rick, wpcdplugin, ultimateblocks, wpleaders1, wptb, istiakrayhan
 Donate Link: https://www.paypal.me/imtiazrayhan/
 Tags: shortcode, current date, month, year
-Requires at least: 4.0
-Tested up to: 6.3
-Stable tag: 2.2.0
+Requires at least: 5.0
+Tested up to: 6.7
+Stable tag: 2.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,7 +68,7 @@ Another way :
 
 = 2.2.0 =
 
-* WordPress 6.3 compatible.
+* Tested with WordPress 6.7
 
 = 2.1.9 =
 
